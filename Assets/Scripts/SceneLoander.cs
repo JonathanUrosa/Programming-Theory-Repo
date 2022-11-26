@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// INHERITANCE
 public class SceneLoander : MonoBehaviour
 {
     private void OnEnable()
